@@ -12,7 +12,6 @@ org,Taiwan National Treasure,national-treasures-tw,
 org,台灣資料申請小幫手,opengovdatatw,
 org,美國國會台灣觀測站,ACTtaiwan,
 org,違章工廠舉報系統,Disfactory,
-
 user,a0000778,a0000778,"g8v"
 user,Asperhsu,Asperhsu,"airmap-frontend-v5,airmap-backend,airmap-laravel"
 user,audreyt,audreyt,"moe"
@@ -43,7 +42,7 @@ user,miaoski,miaoski,"amis-francais,amis-safolu"
 user,mlwmlw,mlwmlw,"pcc"
 user,nansenat16,nansenat16,"jobhelper-ie,jobhelper-mobile,tw-legis-log-parser"
 user,pm5,pm5,"tracevotes"
-user,ronnywang,ronnywang,"axe.g0v.tw,campaign-finance.g0v.ronny.tw,company-graph,data.g0v.ronny.tw,dev-env,ecolife.epa.gov.tw,jobhelper,judicial-easyer,lagnews,newsdiff,newstrend.g0v.ronny.tw,taiwan-address-lookup,taiwan-cabinet,tw-campaign-finance,twcompany,vote2014"
+user,Ronny Wang,ronnywang,"axe.g0v.tw,campaign-finance.g0v.ronny.tw,company-graph,data.g0v.ronny.tw,dev-env,ecolife.epa.gov.tw,jobhelper,judicial-easyer,lagnews,newsdiff,newstrend.g0v.ronny.tw,taiwan-address-lookup,taiwan-cabinet,tw-campaign-finance,twcompany,vote2014"
 user,soidid,soidid,"soidid.github.io"
 user,superChing,superChing,"extract_declared_sentence"
 user,teia-tw,teia-tw,"drinking_water"
