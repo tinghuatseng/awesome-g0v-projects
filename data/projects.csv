@@ -67,8 +67,8 @@ awesome-g0v,台北市公有地資料與地圖 Publicly Owned Property,,,dz1984,"
 awesome-g0v,台北市建管處建照記錄,,,cades,"開放資料,開放政府,政府運作",cades/taipei-building-has-reward,https://github.com/cades/taipei-building-has-reward
 awesome-g0v,台灣地址門牌查詢,,,g0v,"開放資料,開放政府,政府運作",g0v/TWDoorplates,https://github.com/g0v/TWDoorplates
 awesome-g0v,台灣行政區視覺化,,,g0v,"開放資料,開放政府,政府運作",g0v/twgeojson,https://github.com/g0v/twgeojson
-awesome-g0v,地址轉經緯度,,,ronnywang,"開放資料,開放政府,政府運作",ronnywang/taiwan-address-lookup,https://github.com/ronnywang/taiwan-address-lookup
-awesome-g0v,政府開放資料平臺備份,,,ronnywang,"開放資料,開放政府,政府運作",ronnywang/data.g0v.ronny.tw,https://github.com/ronnywang/data.g0v.ronny.tw
+awesome-g0v,地址轉經緯度,,,Ronny Wang,"開放資料,開放政府,政府運作",ronnywang/taiwan-address-lookup,https://github.com/ronnywang/taiwan-address-lookup
+awesome-g0v,政府開放資料平臺備份,,,Ronny Wang,"開放資料,開放政府,政府運作",ronnywang/data.g0v.ronny.tw,https://github.com/ronnywang/data.g0v.ronny.tw
 awesome-g0v,開放資料建立與普查,,,g0v,"開放資料,開放政府,政府運作",g0v/local.data,https://github.com/g0v/local.data
 awesome-g0v,NGO list retreieved from judicial.gov.tw.,,,g0v,"開放資料,開放政府,政府運作",g0v/foundationtw,https://github.com/g0v/foundationtw
 awesome-g0v,植物疫情與藥劑查詢系統,,,g0v,"開放資料,開放政府,公共安全",g0v/agriculture,https://github.com/g0v/agriculture
@@ -82,7 +82,7 @@ awesome-g0v,台中市公車地圖,,,g0v,"開放資料,開放政府,公營服務"
 awesome-g0v,台北捷運各站出站人數變化圖,,,zbryikt,"開放資料,開放政府,公營服務",zbryikt/visualize,https://github.com/zbryikt/visualize/tree/gh-pages/mrt
 awesome-g0v,Cancer 台灣癌症資料專案,,,g0v,"開放資料,開放政府,公營服務",g0v/cancer,https://github.com/g0v/cancer
 awesome-g0v,福利請聽,,35,g0v,"開放資料,開放政府,公營服務",g0v/listening,https://github.com/g0v/listening
-awesome-g0v,台灣村里家戶用電量,,,ronnywang,"開放資料,開放政府,公營服務",ronnywang/ecolife.epa.gov.tw,https://github.com/ronnywang/ecolife.epa.gov.tw
+awesome-g0v,台灣村里家戶用電量,,,Ronny Wang,"開放資料,開放政府,公營服務",ronnywang/ecolife.epa.gov.tw,https://github.com/ronnywang/ecolife.epa.gov.tw
 awesome-g0v,台灣鉛管分佈地圖,,,kiang,"開放資料,開放政府,公營服務",kiang/lead_pipes,https://github.com/kiang/lead_pipes
 awesome-g0v,全國醫院急診即時看板,,,g0v,"開放資料,開放政府,公營服務",g0v/er.mohw,https://github.com/g0v/er.mohw
 awesome-g0v,高雄地下管線地圖,,,zbryikt,"開放資料,開放政府,公營服務",zbryikt/visualize,https://github.com/zbryikt/visualize
@@ -102,11 +102,11 @@ awesome-g0v,萌典字宙反應爐,,,audreyt,"開放資料,開放政府,公營服
 awesome-g0v,國科會計畫補助學校金額,,,g0v,"開放資料,開放政府,公營服務",g0v/nsc-projects,https://github.com/g0v/nsc-projects
 awesome-g0v,勞工薪資預算程式,,,kiang,"開放資料,開放政府,經濟活動",kiang/salary,https://github.com/kiang/salary
 awesome-g0v,69K薪水工作查詢,,,g0v,"開放資料,開放政府,經濟活動",g0v/i69,https://github.com/g0v/i69/
-awesome-g0v,求職小幫手,,467,ronnywang,"開放資料,開放政府,經濟活動","ronnywang/jobhelper,nansenat16/jobhelper-mobile,yisheng-liu/jobhelper_ff,nansenat16/jobhelper-ie",https://github.com/ronnywang/jobhelper
+awesome-g0v,求職小幫手,,467,Ronny Wang,"開放資料,開放政府,經濟活動","ronnywang/jobhelper,nansenat16/jobhelper-mobile,yisheng-liu/jobhelper_ff,nansenat16/jobhelper-ie",https://github.com/ronnywang/jobhelper
 awesome-g0v,自經區立法辯論比較表,,,fepztw,"開放資料,開放政府,經濟活動",fepztw/fepztw.github.io,https://github.com/fepztw
 awesome-g0v,開放標案,,,mlwmlw,"開放資料,開放政府,經濟活動",mlwmlw/pcc,https://github.com/mlwmlw/pcc
-awesome-g0v,台灣公司登記資料,,,ronnywang,"開放資料,開放政府,經濟活動",ronnywang/twcompany,https://github.com/ronnywang/twcompany
-awesome-g0v,台灣公司關係圖,,,ronnywang,"開放資料,開放政府,經濟活動",ronnywang/company-graph,https://github.com/ronnywang/company-graph
+awesome-g0v,台灣公司登記資料,,,Ronny Wang,"開放資料,開放政府,經濟活動",ronnywang/twcompany,https://github.com/ronnywang/twcompany
+awesome-g0v,台灣公司關係圖,,,Ronny Wang,"開放資料,開放政府,經濟活動",ronnywang/company-graph,https://github.com/ronnywang/company-graph
 awesome-g0v,台灣社團(財團)法人資料檢索,,,g0v,"開放資料,開放政府,經濟活動",g0v/foundationtw,https://github.com/g0v/foundationtw
 awesome-g0v,國民黨黨產地圖,,,billy3321,"開放資料,開放政府,經濟活動",billy3321/billy3321.github.io,https://github.com/billy3321/billy3321.github.io
 awesome-g0v,農作物開放資料,,277,a0726h77,"開放資料,開放政府,經濟活動",a0726h77/open_crops,https://github.com/a0726h77/open_crops
@@ -129,7 +129,7 @@ awesome-g0v,救救食蛇龜,,,g0v,社會參與,g0v/cuora,https://github.com/g0v/
 awesome-g0v,G8V電視牆,,,a0000778,新媒體,a0000778/g8v,https://github.com/a0000778/g8v
 awesome-g0v,InLiveTW,,"166,137",inLiveTW,新媒體,inLiveTW/server,https://github.com/inLiveTW
 awesome-g0v,MOVEMENT 社會運動資訊平台,,,4movement,新媒體,4movement/MOVEMENT,https://github.com/4movement
-awesome-g0v,NewsDiff 官方新聞稿異動情況站,,,ronnywang,新媒體,ronnywang/newsdiff,https://github.com/ronnywang/newsdiff
+awesome-g0v,NewsDiff 官方新聞稿異動情況站,,,Ronny Wang,新媒體,ronnywang/newsdiff,https://github.com/ronnywang/newsdiff
 awesome-g0v,太陽花學運全記錄,,,g0v,新媒體,g0v/sunflower,https://github.com/g0v/sunflower
 awesome-g0v,物資管理平台系統,,,bifrostio,新媒體,bifrostio/bifrost,https://github.com/bifrostio
 awesome-g0v,虎神快閃,,,ddio,新媒體,ddio/MuscidaeFlash,https://github.com/ddio/MuscidaeFlash
@@ -137,9 +137,9 @@ awesome-g0v,政誌,,47,g0v,新媒體,g0v/twangry,https://github.com/g0v/twangry
 awesome-g0v,站聲,,,jcsky,新媒體,jcsky/Solveissues,https://github.com/jcsky/Solveissues
 awesome-g0v,問題電視節目查詢,,,godgunman,新媒體,godgunman/ncc-complain-data,https://github.com/godgunman/ncc-complain-data
 awesome-g0v,新聞詞頻統計,,,youchenlee,新媒體,youchenlee/news-seg,https://github.com/youchenlee/news-seg
-awesome-g0v,新聞趨勢統計,,,ronnywang,新媒體,ronnywang/newstrend.g0v.ronny.tw,https://github.com/ronnywang/newstrend.g0v.ronny.tw
+awesome-g0v,新聞趨勢統計,,,Ronny Wang,新媒體,ronnywang/newstrend.g0v.ronny.tw,https://github.com/ronnywang/newstrend.g0v.ronny.tw
 awesome-g0v,資訊補食獸,,,lanfon72,新媒體,lanfon72/linkCollector,https://github.com/lanfon72/linkCollector/
-awesome-g0v,LagNews 腿新聞,,,ronnywang,新媒體,ronnywang/lagnews,https://github.com/ronnywang/lagnews
+awesome-g0v,LagNews 腿新聞,,,Ronny Wang,新媒體,ronnywang/lagnews,https://github.com/ronnywang/lagnews
 awesome-g0v,公眾人物關係圖產生器,,"18,8",zbryikt,新媒體,zbryikt/ppllink,https://github.com/zbryikt/ppllink
 awesome-g0v,公民記者證產生器,,,g0v,新媒體,g0v/reporter,https://github.com/g0v/reporter
 awesome-g0v,新聞小幫手,,"406,45",g0v,新媒體,"g0v/newshelper-backend,g0v/newshelper-extension,yllan/newshelper-safari",https://github.com/g0v/newshelper-backend
@@ -189,7 +189,7 @@ g0v_db,M Project,,188,a0kman,待確認,,http://hackfoldr.org/mproject
 g0v_db,MT7688,,290,Mindos,待確認,,
 g0v_db,NPO Lab 公益實驗室,,226,Kenny,NPO lab,,https://docs.google.com/document/d/1rKRk4ZL8ROpjeS23006tt61a71jJezbwPSIuEY8jOrY/edit?usp=sharing
 g0v_db,NT01 地球上的夢幻逸品線上型錄,,601,cotton,環境,,
-g0v_db,News Diff 來看看新聞改過了沒?,,41,ronnywang,媒體,,https://github.com/ronnywang/newsdiff
+g0v_db,News Diff 來看看新聞改過了沒?,,41,Ronny Wang,媒體,,https://github.com/ronnywang/newsdiff
 g0v_db,Open Source Guide 翻譯坑,,462,TypingMonkey,待確認,,https://g0v.hackpad.tw/g0v-shadow-ta138sdLdND
 g0v_db,PTT.ai,,558,"Lilian,老蕭,Sam",待確認,,https://github.com/ailabstw/go-pttai
 g0v_db,People Watch,,30,snowmantw,媒體,,
@@ -280,7 +280,7 @@ g0v_db,中央助聽器：千千傾聽，萬人協作科技政策白皮書,,457,a
 g0v_db,互動問答式數位專輯,,174,tkirby,媒體,,http://github.com/zbryikt/qa
 g0v_db,亞洲模擬人權法院,,587,YuTin,法律,,https://www.facebook.com/AHRCS.org
 g0v_db,人人有案提,,"152,128","ddio,peiyu kuo,littleta","民主參與,g0v,工具",,https://g0v.hackpad.com/9x2rxSwUc
-g0v_db,人口等資訊地圖化,,7,ronnywang,人口,,
+g0v_db,人口等資訊地圖化,,7,Ronny Wang,人口,,
 g0v_db,企業永續資訊平台（Corporate Social Responsibility）,,437,李振北,工具,,
 g0v_db,你今天加班了嗎?,,320,韋銘,勞動,,https://g0v.hackpad.com/tA21IMtODD8
 g0v_db,你想要怎樣的黨產資料網站？,,356,雨蒼,轉型正義,,https://g0v.hackpad.com/xpvderSMBSU
@@ -713,7 +713,7 @@ g0v_db,mate your fellow: 以科技的力量尋找學伴及學習資源,,788,"ton
 g0v_db,g0v Podcast,,"815,794,789",jothon(ichieh),待確認,,https://g0v.hackmd.io/@chihao/HkceASC_K
 g0v_db,#decentralizehk,,"793,790,765","Aurora,Wei",待確認,,https://g0v.hackmd.io/Y1S3ovOsRYmmxj6CjQdh7A?view
 g0v_db,一生監督（立委）,,791,denkeni,待確認,,
-g0v_db,lysayit 立委說了什麼,,792,ronnywang,待確認,,https://docs.google.com/presentation/d/1WZZb8tz4nKSrbUsxY5SV6pIv10or13XBpjhyWUGF1ts/edit?usp=sharing
+g0v_db,lysayit 立委說了什麼,,792,Ronny Wang,待確認,,https://docs.google.com/presentation/d/1WZZb8tz4nKSrbUsxY5SV6pIv10or13XBpjhyWUGF1ts/edit?usp=sharing
 g0v_db,醬讀讀書 17yo.ga,,795,fly,待確認,,https://hackmd.io/@flab
 g0v_db,智慧健檢平台,,"862,824,816,796","Thomas,Yvonne",待確認,,https://g0v.hackmd.io/ragerNXPTsuIyrasHW9fiA
 g0v_db,Accessibility Fixing,,798,"Caleb,Morgan",待確認,,https://hackmd.io/@i6x1MuXFR0q_Reh6_uOQDw/HJ5-goMTt
