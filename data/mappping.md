@@ -49,3 +49,4 @@ jslee|jsleetw|寵物需要我 Pet Need Me
 viola|Viola|全台公立動物收容所資訊統整
 劉李(night17x)|劉李
 揪松|揪松團|elixus 到 g0v 之 ilya 紀念共筆
+理查|理查 (monaludao)|開放都市-委員會會議記錄資料庫<br>開放都市計畫 - API + 前端設計<br>開放都市計畫:委員會會議紀錄<br>開放都市計畫<br>
