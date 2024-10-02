@@ -1,41 +1,4 @@
 # owner 替換表
-
-MrOrz：
-  + MrOrz (Johnson)
-  + mrorz
-
-+ Bestian：
-  + bestian
-
-+ ddio：
-  + 克羅依 / ddio
-
-+ 克羅依：
-  + 克羅依 / ddio
-
-+ (有誰可以幫我廣告 XD 沒人的話就刪掉吧 =w=)
-  + unknow 
-  + 公民運動後勤表單、SOP
-
-+ 3: 
-  + unknow: 
-  + 時動議 LINK TOPIC
-
-+ ?
-  + unknow
-  + Child Not Found
-
-+ Allen
-  + allen
-  + Wikimedia Taiwan-Allen
-  + 九周年、wikidata 也是九周年
-
-+ Bess
-  + bess
-  + Bess
-  + Bess (jothon)
-  + The Space Hub
-
 |名稱|相似名稱|相關提案|備註
 |---|---|---|---|
 MrOrz (Johnson)|MrOrz|
@@ -83,3 +46,6 @@ bess|Bess
 救松團 chewei|chewei|來救松
 chihao（代）|chihao|鄉民看電視
 jslee|jsleetw|寵物需要我 Pet Need Me
+viola|Viola|全台公立動物收容所資訊統整
+劉李(night17x)|劉李
+揪松|揪松團|elixus 到 g0v 之 ilya 紀念共筆
