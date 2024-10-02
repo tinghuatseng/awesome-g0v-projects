@@ -4,10 +4,9 @@
 MrOrz (Johnson)|MrOrz|
 mrorz|MrOrz|
 bestian|Bestian|
-克羅依 / ddio|ddio|
-克羅依 / ddio|克羅依|
+克羅依 / ddio|克羅依,ddio|一起打造永續的租屋社群
 (有誰可以幫我廣告 XD 沒人的話就刪掉吧 =w=)|unkown|公民運動後勤表單、SOP|會先替換成 unknow
-ETblue ipa|ETBlue|g0v基礎建設- 首頁2.0
+ETblue ipa|ETBlue,ipa|g0v基礎建設- 首頁2.0
 etblue|ETBlue|憲動盟野生官網 野生部落格
 eddie|Eddie|信差 - 社運鄉民出來走
 eli|Eli|n/a
