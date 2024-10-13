@@ -3,7 +3,7 @@
 |---|---|---|---|
 MrOrz (Johnson)|MrOrz|
 mrorz|MrOrz|
-bestian|Bestian|
+Bestian|bestian|教育元語言
 克羅依 / ddio|克羅依,ddio|
 (有誰可以幫我廣告 XD 沒人的話就刪掉吧 =w=)|unkown|公民運動後勤表單、SOP|會先替換成 unknow
 ETblue ipa|ETBlue,ipa|g0v基礎建設- 首頁2.0
@@ -36,7 +36,6 @@ ronnywang|Ronny Wang|Dev-Env<br>斧頭幫大挑戰<br>台灣法院判決書可�
 ?|unknow|Child Not Found
 ttcat|Ttcat|g0v-shadow 影子政府網站<br>廢核連署平台
 Y.D. Lin|Y.D Lin|
-Yoyo|Yo Yo|g0v新手讀書會
 yurenju|Yuren Ju|勞基法函式庫：勞基法相關應用的基石
 Yuren|Yuren Ju|勞基法計算機 - 變形工時實作
 `[FtO] pm5`|pm5|
@@ -73,3 +72,4 @@ NIna&Alex|NIna,Alex|WizardAmigos CodeCamps
 wancat（宏信）|宏信|indieveloper 獨立開發者
 Denken|denkeni|立法院大小聲
 peii / yukai|peii,yukai
+Ziv/Peling/Dennis|Ziv,Peling,Dennis|The good, bad and ugly of Emergency Data
