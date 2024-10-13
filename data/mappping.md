@@ -69,3 +69,7 @@ yellowsoar & Dong|yellowsoar,Dong
 進良|進良Thomas|LLM我的家鄉
 ` 任翔 Sean`|任翔 Sean|Collage
 NIna&Alex|NIna,Alex|WizardAmigos CodeCamps
+世界和平（Huanry）|Huanry|S-E-E 永續所得指標
+wancat（宏信）|宏信|indieveloper 獨立開發者
+Denken|denkeni|立法院大小聲
+peii / yukai|peii,yukai
