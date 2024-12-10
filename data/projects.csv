@@ -2,18 +2,18 @@ source,name,description,g0v_db_rows,owners,tags,github_repos,homepage
 manual,令人驚奇的零時政府,,,jhuang,g0v基礎建設,chunyenHuang/awesome-g0v-projects,
 manual,幸福存摺,,665,jhuang,"教育,工具",chunyenHuang/piggy-bank-of-happiness,
 manual,健保自付差額特材,,668,jhuang,"開放資料,醫療,工具",chunyenHuang/nhi-open-data-tool,
-manual,Cofacts 真的假的,,"377,382,364,415,438,455,469,482,501,524,562,574,593,611,633,645,652,676,694,711,726,739,752,762,777,797,817,830,843,860,883,909,919,929,948,960,974,988,1009,1016,1040,1053","MrOrz,bil",事實查核,"cofacts/rumors-api,cofacts/rumors-site,cofacts/rumors-line-bot,cofacts/rumors-fb-bot,cofacts/rumors-ai,cofacts/rumors-db,cofacts/rumors-deploy",https://cofacts.tw/hack
+manual,Cofacts 真的假的,,"377,382,364,415,438,455,469,482,501,524,562,574,593,611,633,645,652,676,694,711,726,739,752,762,777,797,817,830,843,860,883,909,919,929,948,960,974,988,1009,1016,1040,1053","MrOrz,bil,Johnson,斌綸,Dennis",事實查核,"cofacts/rumors-api,cofacts/rumors-site,cofacts/rumors-line-bot,cofacts/rumors-fb-bot,cofacts/rumors-ai,cofacts/rumors-db,cofacts/rumors-deploy",https://cofacts.tw/hack
 manual,美國國會台灣觀測站,,634,bruce,待確認,"ACTtaiwan/us-tw-watch-site,ACTtaiwan/ustw-site",
 manual,LikeCoin 讚賞公民共和國,,658,"kin ko,williamchong007","媒體,區塊鏈,抗審查","likecoin/likecoin,likecoin/dao,likecoin/LikeCoinButton-integration,likecoin/likecoin-button-sdk,likecoin/liker-land-browser-extension,likecoin/likecoin-wordpress,likecoin/likecoin-app,likecoin/likecoin-api-public",https://like.co
 manual,MyData Taiwan - mylog14,,,bafu,待確認,MyDataTaiwan/mylog14,https://www.mydata.org.tw
-manual,違章工廠舉報系統 Disfactory,,"840,819,783,763,736,720,700,696,670,614,600,951",小海,"農業,工業,土地",Disfactory/Disfactory,https://drive.google.com/file/d/1MB3xjIwZd8NbgH39ax6ojsy76HjaN6Rh/view?usp=sharing
+manual,違章工廠舉報系統 Disfactory,,"840,819,783,763,736,720,700,696,670,614,600,951","小海,deeper,Sandra,ael,yukai,peii","農業,工業,土地",Disfactory/Disfactory,https://drive.google.com/file/d/1MB3xjIwZd8NbgH39ax6ojsy76HjaN6Rh/view?usp=sharing
 manual,零時小學校 Sch001,,"878,858,741,721,675,941,954,989","Tiff,Bess",待確認,,https://sch001.g0v.tw/
 awesome-g0v,The web site.,,,g0v,g0v基礎建設,g0v/g0v.tw,https://github.com/g0v/g0v.tw
 awesome-g0v,Logo & styles.,,,g0v,g0v基礎建設,g0v/style-guide,https://github.com/g0v/style-guide
 awesome-g0v,glyphs,,,g0v,g0v基礎建設,g0v/glyph,https://github.com/g0v/glyph
 awesome-g0v,common bootstrap theme and design guide for websites.,,,g0v,g0v基礎建設,g0v/design-guide,https://github.com/g0v/design-guide
 awesome-g0v,The hackathon portal based on [hackfoldr](http://hackfoldr.org/).,,,g0v,g0v基礎建設,g0v/hack.g0v.tw,https://github.com/g0v/hack.g0v.tw
-awesome-g0v,g0v Summit 台灣零時政府高峰會,,"661,642,623,518,496,459,310,156,109,907,977,688,669,689,990,1000,959,945,926","ipa,Bess,hychen,Mavis,LY,g0v","g0v基礎建設,g0v Summit","g0v/summit.g0v.tw,g0v/summit2018",https://github.com/g0v/summit.g0v.tw
+awesome-g0v,g0v Summit 台灣零時政府高峰會,,"661,642,623,518,496,459,310,156,109,907,977,688,669,689,990,1000,959,945,926","ipa,Bess,hychen,Mavis,LY,g0v,pm5,hkazami,Claire,Peter,yellowsoar,Dong,RSChiang","g0v基礎建設,g0v Summit","g0v/summit.g0v.tw,g0v/summit2018",https://github.com/g0v/summit.g0v.tw
 awesome-g0v,Hackfoldr Editor,,353,g0v,g0v基礎建設,g0v/hackeditr,https://github.com/g0v/hackeditr
 awesome-g0v,Hackfoldr 2.0,,,hackfoldr,g0v基礎建設,hackfoldr/hackfoldr-2.0,https://github.com/hackfoldr/hackfoldr-2.0
 awesome-g0v,Hacktabl 協作比較表格,,,g0v,g0v基礎建設,g0v/hacktabl,https://github.com/g0v/hacktabl
